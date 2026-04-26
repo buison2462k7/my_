@@ -1,1 +1,2 @@
-Hello Git 
+Tư duy tính toán
+
